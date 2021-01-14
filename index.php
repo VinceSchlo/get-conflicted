@@ -1,3 +1,3 @@
 <?php
 
-print("La la la la la - la la la la la la la - la la la la la - la la la la la la la<br>");
+echo "La la la la la - la la la la la la la - la la la la la - la la la la la la la<br>";
