@@ -13,8 +13,11 @@ echo "La la la la la - la la la la la la la - la la la la la - la la la la la la
 
 echo 'Inside an empty room my inspiration flows<br>';
 echo 'Now wait to hear the tune around my head it goes <br>';
+echo 'The magic melody you want to sing with me';
+echo "<br>";
 echo 'Just la la la la la the music is the key';
 echo "<br>";
 echo " And now the night is gone still it goes on and on <br>";
 ?>
+
 
